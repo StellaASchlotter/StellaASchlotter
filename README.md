@@ -12,7 +12,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3>Things I want to check out:</h3>
+<h3>Things I want to check out next:</h3>
 <ul>
   <li><a href="https://github.com/google/tensorflow-recorder">Tensorflow Recorder</a>
 </ul>
