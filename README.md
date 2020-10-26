@@ -1,4 +1,4 @@
-<p>Welcome to my page! </br> I'm Stella a developer based in <b>Berlin, Germany</b></p>
+<p>Welcome to my page! </br> I'm Stella a developer based in <b>Berlin, Germany.</b> You can find me CV at https://stellaaschlotter.github.io/CV/</p>
 
 <h3>Things I work with:</h3>
 <!--- Make it rainbow colored: https://planetcalc.com/5799/ --->
@@ -13,6 +13,8 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-6200ff?style=flat-square&logo=git&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-ff00ff?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+<!--- TODO add publications --->
 
 <h3>Things I want to check out next:</h3>
 <ul>
