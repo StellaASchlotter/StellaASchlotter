@@ -18,5 +18,7 @@
 
 <h3>Things I want to check out next:</h3>
 <ul>
-  <li><a href="https://github.com/google/tensorflow-recorder">Tensorflow Recorder</a>
+  <li><a href="https://github.com/google/tensorflow-recorder">Tensorflow Recorder</a></li>
+  <li>CMAKE</li>
+  <li>Bazel</li>
 </ul>
