@@ -23,4 +23,5 @@
   <li>Bazel</li>
   <li>Tracy Profiler</li>
   <li>Unreal Engine</li>
+  <li>Yocto</li>
 </ul>
