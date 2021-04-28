@@ -1,4 +1,4 @@
-<p>Welcome to my page! </br> I'm Stella a developer based in <b>Berlin, Germany.</b> You can find me CV at https://stellaaschlotter.github.io/CV/</p>
+<p>Welcome to my page! </br> I'm Stella a developer based in <b>Berlin, Germany.</b></p>
 
 <h3>Things I work with:</h3>
 <!--- Make it rainbow colored: https://planetcalc.com/5799/ --->
@@ -16,7 +16,7 @@
 
 <!--- TODO add publications --->
 
-<h3>Things I want to check out next:</h3>
+<h3>Things I want to check out in my free time</h3>
 <ul>
   <li>MLIR + IREE</li>
   <li>CMAKE</li>
